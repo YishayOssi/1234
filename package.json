@@ -1,0 +1,25 @@
+{
+  "name": "1234",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YishayOssi/1234.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/YishayOssi/1234/issues"
+  },
+  "homepage": "https://github.com/YishayOssi/1234#readme",
+  "dependencies": {
+    "nanoid": "^5.1.6",
+    "readline-sync": "^1.4.10"
+  }
+}
